@@ -1,4 +1,4 @@
 # MyRepoDemo
 This is my repository
 <br>
-Author- Naveen
+Author- Naveen Verma
